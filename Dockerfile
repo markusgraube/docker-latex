@@ -1,4 +1,4 @@
-FROM ubuntu:yakkety
+FROM ubuntu:latest
 MAINTAINER Markus Graube <markus.graube@tu-dresden.de>
 ENV DEBIAN_FRONTEND noninteractive
 
